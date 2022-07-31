@@ -615,6 +615,8 @@ address {
   border-radius: 4px;
   background-color: inherit;
   margin-right: 12px;
+  outline: none;
+  color: var(--hero-txt-cl);
 }
 
 .footer-modal-form-btn {
@@ -632,6 +634,7 @@ address {
   border: none;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+  cursor: pointer;
 }
 
 .footer-modal-form-btn-txt {
